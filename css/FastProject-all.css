@@ -1,0 +1,11 @@
+
+
+/*Forma corecta de llamar las hojas de estylo*/
+
+@import "home1.css";
+
+@import "home2.css";
+
+
+/*Porfavor no crear stylos nuevos aca para crear stylos existe un archivo llamado custom.css*/
+

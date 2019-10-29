@@ -1,0 +1,10 @@
+#sliderContent { padding: 5px 10px 12px;}
+.viewer { height:165px; margin: 0 7px 6px 10px; padding:1px; overflow:hidden; position:relative; }
+.content-conveyor { width:610px; height:335px; position:relative; }
+.item1 { width:250px; float:left; font-family:Tahoma; text-align:center; }
+.item1 h2 { font-size:100%; margin:10px 0; }
+.item1 dl { margin:10px 0; }
+.item1 dt, .item dd { float:left; width:149px; text-align:right; margin:0; font-size:70%; }
+.item1 dt { font-weight:bold; margin-right:5px; }
+.item1 dd { text-align:left; }
+.item1 img { background-color:#ffffff; padding:1px;  border: 8px solid #f9f9fb;}
